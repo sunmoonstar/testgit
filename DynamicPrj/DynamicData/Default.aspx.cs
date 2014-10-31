@@ -15,6 +15,8 @@ namespace DynamicData
             }
             Menu1.DataSource = visibleTables;
             Menu1.DataBind();
+
+            string strinfo = "测试数据";
         }
 
     }
